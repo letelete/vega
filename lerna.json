@@ -1,14 +1,4 @@
 {
-  "version": "1.0.0",
-  "includeMergedTags": true,
-  "packages": [
-    "packages/*"
-  ],
-  "npmClient": "yarn",
-  "command": {
-    "publish": {
-      "registry": "https://npm.pkg.github.com/@vega",
-      "allowRoot": true
-    }
-  }
+  "version": "independent",
+  "npmClient": "yarn"
 }
